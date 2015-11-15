@@ -1,0 +1,44 @@
+body {
+	font-family:"Helvetica";
+	text-align: center;
+}
+
+.legend-color-icon {
+	height:10px;
+	width: 10px;
+	display:inline-block;
+}
+
+#legend {
+	margin:auto;
+	height:200px;
+	width:200px;
+	text-align:left;
+	list-style: none;
+	font-weight: 200;
+}
+
+#pie {
+	padding: 20px;
+}
+
+#question-box{
+}
+
+#answers-box{
+	margin:auto;
+	width:200px;
+	text-align:left;
+}
+
+#answers {
+	list-style: none
+}
+
+.answer-entry {
+	cursor: pointer;
+}
+
+.answer-entry:hover {
+	color: grey;
+}
