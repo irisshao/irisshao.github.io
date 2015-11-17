@@ -17,7 +17,7 @@ $(document).ready(function() {
 	        value: 8,
 	        color: "#FDB45C",
 	        highlight: "#FFC870",
-	        label: "Cooler Wilson"
+	        label: "J double-u double-u"
 	    }
 	];
 
