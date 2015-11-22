@@ -2,19 +2,19 @@ $(document).ready(function() {
 
 	var data = [
 	    {
-	        value: 3,
+	        value: 272,
 	        color:"#F7464A",
 	        highlight: "#FF5A5E",
 	        label: "J. Walter Wilson"
 	    },
 	    {
-	        value: 5,
+	        value: 130,
 	        color: "#46BFBD",
 	        highlight: "#5AD3D1",
-	        label: "J-WOW"
+	        label: "JWOWW"
 	    },
 	    {
-	        value: 8,
+	        value: 23,
 	        color: "#FDB45C",
 	        highlight: "#FFC870",
 	        label: "J double-u double-u"
@@ -79,8 +79,6 @@ $(document).ready(function() {
 	  	$('#pie-box').append(legend);
 	});
 
-// color picker code goes here!!!! //
-// ya!!!! //
 
 
 
